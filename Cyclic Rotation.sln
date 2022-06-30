@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cyclic Rotation", "Cyclic Rotation\Cyclic Rotation.csproj", "{DC9F1C20-D994-4A3F-B906-21547FFA13B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{76079D9E-CDD3-4B5F-9F00-AE595E10D212}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyclic Rotation.Test", "Cyclic Rotation.Test\Cyclic Rotation.Test.csproj", "{49EA333B-A756-406E-ADC7-98095C310D52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DC9F1C20-D994-4A3F-B906-21547FFA13B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC9F1C20-D994-4A3F-B906-21547FFA13B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC9F1C20-D994-4A3F-B906-21547FFA13B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{76079D9E-CDD3-4B5F-9F00-AE595E10D212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76079D9E-CDD3-4B5F-9F00-AE595E10D212}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76079D9E-CDD3-4B5F-9F00-AE595E10D212}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76079D9E-CDD3-4B5F-9F00-AE595E10D212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EA333B-A756-406E-ADC7-98095C310D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EA333B-A756-406E-ADC7-98095C310D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EA333B-A756-406E-ADC7-98095C310D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EA333B-A756-406E-ADC7-98095C310D52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

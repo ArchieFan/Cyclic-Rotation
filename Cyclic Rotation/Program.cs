@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Solution
+public class Solution
 {
     public int[] solution(int[] A, int K)
     {
